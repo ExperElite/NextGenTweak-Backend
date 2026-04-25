@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
-  "updateUrl": "https://github.com/KULLANICI/NextGenTweak-Backend/releases/latest/download/ngt.zip",
-  "forceUpdate": false
+  "apiKey": "BURAYA_FIREBASE_API_KEY",
+  "projectId": "BURAYA_PROJECT_ID",
+  "licenseCollection": "licenses",
+  "updateDoc": "updates/latest"
 }
